@@ -50,6 +50,7 @@
 </script>
 
 <style lang="less">
+// test
 	@import '../style/mixin';
 	.edit_container{
 		padding: 40px;
